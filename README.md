@@ -3,6 +3,6 @@
 pytorch for semantic segmentation
 
 Requirements:
-  pytorch 0.3.1
-  python3.5
-  scipy 1.1.0
+  1. pytorch 0.3.1 \n
+  2. python3.5 \n
+  3. scipy 1.1.0 \n
